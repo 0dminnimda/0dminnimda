@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0dminnimda
-- 👀 I'm interested in Python, software architecture, AI, creation of programming languages, and much more.
+- 👀 I’m interested in Python, software architecture, AI, creation of programming languages, and much more.
 - 🌱 I’m currently learning C++ and exploring the depths of Python
 - 💞️ I’m looking to collaborate on basically everything interesting ^_^
 - 📫 How to reach me ...
