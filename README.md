@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, software architecture, AI, creation of programming languages, and much more.
 - 🌱 I’m currently learning C++ and exploring the depths of Python
 - 💞️ I’m looking to collaborate on basically anything that might interest me ^_^
-- 📫 How to reach me ... so far a mystery ...
+- 📫 How to reach me? You can email me!
 - 🗣 I speak, write and read in **English** and **Russian**.
 
 <!---
