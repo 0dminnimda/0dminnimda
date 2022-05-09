@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0dminnimda and my pronouns are he/him.
+- 👋 Hi, I’m `@0dminnimda`, a self-taught programmer and my pronouns are he/him.
 - 👀 I’m interested in Python, software architecture, AI, creation of programming languages, and much more.
 - 🌱 I’m currently learning C++ and exploring the depths of Python
 - 💞️ I’m looking to collaborate on basically anything that might interest me ^_^
