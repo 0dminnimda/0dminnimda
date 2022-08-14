@@ -1,3 +1,16 @@
+<!-- TODO: use github actions to save and commit the image to this repo annually -->
+<a href="https://git.io/streak-stats">
+    <img align="left" width="350" alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=0dminnimda&theme=github_dark&count_private=true&include_all_commits=true&line_height=23&border_radius=2&show_icons=true&hide=&hide_title=true&hide_border=true&hide_rank=true">
+</a>
+<!--
+Don't let the text wrap too narrowly to the left of the above image.
+The `div` reduces the vertical height.
+GitHub will autolink `img`, but won't produce a link when `href="#"`.
+-->
+<div><a href="#">
+    <img width="60%" src="bumper.png">
+</a></div>
+
 - 👋 Hi, I’m `@0dminnimda`, a self-taught programmer and my pronouns are he/him
 - 👀 I’m interested in Python, software architecture, compilers, and much more
 - 🌱 I’m currently learning C++ and exploring the depths of Python 🧪
