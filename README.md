@@ -8,7 +8,7 @@ The `div` reduces the vertical height.
 GitHub will autolink `img`, but won't produce a link when `href="#"`.
 -->
 <div><a href="#">
-    <img width="60%" src="bumper.png">
+    <img width="60%" src="https://raw.githubusercontent.com/0dminnimda/0dminnimda/main/bumper.png">
 </a></div>
 
 - 👋 Hi, I’m `@0dminnimda`, a self-taught programmer and my pronouns are he/him
