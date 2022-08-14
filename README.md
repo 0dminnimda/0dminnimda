@@ -13,11 +13,11 @@ GitHub will autolink `img`, but won't produce a link when `href="#"`.
     <img width="50%" src="https://raw.githubusercontent.com/0dminnimda/0dminnimda/main/bumper.png">
 </a></div>
 
-- 👀 I’m interested in Python, software architecture, compilers, and much more
-- 🌱 I’m currently learning C++ and exploring the depths of Python 🧪
+- 👀 I’m interested in **Python**, software architecture, compilers, and much more
+- 🌱 I’m currently learning **C++** and exploring the depths of **Python** 🧪
 - 💞️ I’m looking to collaborate on basically anything that might interest me ^_^
 - 🗣 I speak, write and read in **English** and **Russian**
-- 📫 How to reach me? Email me 0dminnimda.contact@gmail.com
+- 📫 How to reach me? Email me **0dminnimda.contact@gmail.com**
 
 <!--
 <p align="center"><a href="https://git.io/streak-stats">
