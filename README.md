@@ -1,7 +1,7 @@
 # 👋😉 Hi, I’m `@0dminnimda` (he/him), a self-taught programmer
 
 <!-- TODO: use github actions to save and commit the image to this repo annually -->
-<a href="https://git.io/streak-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" width="310" alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=0dminnimda&theme=github_dark&count_private=false&include_all_commits=true&line_height=28&border_radius=2&show_icons=true&hide=commits&hide_title=true&hide_border=true&hide_rank=true">
 </a>
 <!--
