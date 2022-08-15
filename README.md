@@ -1,13 +1,15 @@
 # 👋😉 Hi, I’m `@0dminnimda` (he/him), a self-taught programmer
 
+<!-- GitHub will autolink `img`, but won't produce a link when `href="#"` -->
+
 <!-- TODO: use github actions to save and commit the image to this repo annually -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="#">
     <img align="left" width="310" alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=0dminnimda&theme=github_dark&count_private=false&include_all_commits=true&line_height=28&border_radius=2&show_icons=true&hide=commits&hide_title=true&hide_border=true&hide_rank=true">
 </a>
+
 <!--
-Don't let the text wrap too narrowly to the left of the above image.
-The `div` reduces the vertical height.
-GitHub will autolink `img`, but won't produce a link when `href="#"`.
+Don't let the text wrap too narrowly to the right of the above image
+The `div` reduces the vertical height
 -->
 <div><a href="#">
     <img width="50%" src="https://raw.githubusercontent.com/0dminnimda/0dminnimda/main/bumper.png">
@@ -20,7 +22,7 @@ GitHub will autolink `img`, but won't produce a link when `href="#"`.
 - 📫 How to reach me? Email me **0dminnimda.contact@gmail.com**
 
 <!--
-<p align="center"><a href="https://git.io/streak-stats">
+<p align="center"><a href="#">
     <img width="500" alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=0dminnimda&theme=github-dark-blue&hide_border=true"/>
 </a></p>
 -->
