@@ -1,4 +1,4 @@
-# 👋😉 Hi, I’m `@0dminnimda` (he/him), a self-taught programmer
+# 👋😉 Hi, I’m `@0dminnimda`, a self-taught programmer
 
 <!-- GitHub will autolink `img`, but won't produce a link when `href="#"` -->
 
